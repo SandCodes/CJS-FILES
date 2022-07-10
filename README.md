@@ -1,2 +1,2 @@
 # CJS-FILES
-Notes and References 
+Notes and Resources
